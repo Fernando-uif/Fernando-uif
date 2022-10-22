@@ -8,3 +8,4 @@ de sumergirme más en su basto mundo. Empecé con un curso de Python, seguido de
 conocer más tecnologías, así fue como a la fecha he aprendiendo: HTML, CSS, JavaScript, Git & GitHub, Bitbucket, Node.js, Postman, MongoDB, JQuery, Typescript, SQL, React, Clean Code, Ruby  y SASS.
 
 Mi objetivo profesional es aplicar todos mis conocimientos de programación para la resolución de problemas, innovando y creando proyectos escalables.
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
